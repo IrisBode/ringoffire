@@ -6,17 +6,22 @@
     border-bottom-left-radius: 50px;
 
     span {
-        font-size: 24px;
+        font-size: 32px;
         margin-left: 16px;
     }
 
-    background-color: beige;
+    background-color: #dce6f5a6;
     
 
     img {
-        width: 100px;
-        height: 100px;
+        width: 70px;
+        height: 70px;
         object-fit: cover;
         border-radius: 100%;
     }
+}
+
+.player-active {
+    background-color: #f8b025fa !important;
+
 }
